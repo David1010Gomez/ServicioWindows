@@ -1,0 +1,10 @@
+C:\Users\ext_josgomez\Documents\Visual Studio 2013\Projects\ServiceTest\ServiceTest\bin\Debug\ServiceTest.exe.config
+C:\Users\ext_josgomez\Documents\Visual Studio 2013\Projects\ServiceTest\ServiceTest\bin\Debug\ServiceTest.exe
+C:\Users\ext_josgomez\Documents\Visual Studio 2013\Projects\ServiceTest\ServiceTest\bin\Debug\ServiceTest.pdb
+C:\Users\ext_josgomez\Documents\Visual Studio 2013\Projects\ServiceTest\ServiceTest\obj\Debug\ServiceTest.csprojAssemblyReference.cache
+C:\Users\ext_josgomez\Documents\Visual Studio 2013\Projects\ServiceTest\ServiceTest\obj\Debug\ServiceTest.ProjectInstaller.resources
+C:\Users\ext_josgomez\Documents\Visual Studio 2013\Projects\ServiceTest\ServiceTest\obj\Debug\ServiceTest.ServiceTest.resources
+C:\Users\ext_josgomez\Documents\Visual Studio 2013\Projects\ServiceTest\ServiceTest\obj\Debug\ServiceTest.csproj.GenerateResource.cache
+C:\Users\ext_josgomez\Documents\Visual Studio 2013\Projects\ServiceTest\ServiceTest\obj\Debug\ServiceTest.csproj.CoreCompileInputs.cache
+C:\Users\ext_josgomez\Documents\Visual Studio 2013\Projects\ServiceTest\ServiceTest\obj\Debug\ServiceTest.exe
+C:\Users\ext_josgomez\Documents\Visual Studio 2013\Projects\ServiceTest\ServiceTest\obj\Debug\ServiceTest.pdb
